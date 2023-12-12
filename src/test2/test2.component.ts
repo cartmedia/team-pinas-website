@@ -1,5 +1,5 @@
 import { html } from "lit";
-import { customElement, property } from "lit/decorators";
+import { customElement, property } from "lit/decorators.js";
 import { TailwindElement } from "../shared/tailwind.element";
 
 import style from "./test2.component.scss?inline";
